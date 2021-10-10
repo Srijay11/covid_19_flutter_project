@@ -1,6 +1,6 @@
 # covid_app
 
-A new Flutter project.
+An app that gives details about the number of covid cases
 
 ## Getting Started
 
